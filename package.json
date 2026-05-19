@@ -1,7 +1,7 @@
 {
   "name": "mel-command-centre-sample",
   "private": true,
-  "version": "2.0.0-preview.1",
+  "version": "2.0.0-preview.2",
   "type": "module",
   "description": "Sanitised sample MEL operations command centre for multi-partner development programs",
   "scripts": {
