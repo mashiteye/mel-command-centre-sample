@@ -6,10 +6,11 @@
   "description": "Sanitised sample MEL operations command centre for multi-partner development programs",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node scripts/restore-v2.mjs && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "adm-zip": "^0.5.16",
     "lucide-react": "^0.383.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
