@@ -1,9 +1,9 @@
 {
   "name": "mel-command-centre-sample",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0-preview.2",
   "type": "module",
-  "description": "Sanitised sample MEL operations dashboard for multi-partner development programs",
+  "description": "Sanitised sample MEL operations command centre for multi-partner development programs",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
